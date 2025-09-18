@@ -1,0 +1,12 @@
+**When to use the Two-Pointer Technique**
+ - Data Struture
+ - Reducing Nested Loops
+ - Searching for Pairs or Triplets
+    - In *Two Sum*
+ - Comparing opposite ends of a sequence
+    - in valid palindrome
+ - In Place operations
+    - Removing Duplicates from a Sorted Array
+ - Partitioning Problems
+    - Partitioning array according to a given pivot
+
